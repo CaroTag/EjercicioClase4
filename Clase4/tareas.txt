@@ -1,0 +1,5 @@
+crear repositorio
+agregar participante
+clonar repositorio
+crear archivos
+
